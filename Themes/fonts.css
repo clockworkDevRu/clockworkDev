@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Comfortaa';
+    src: local('Comfortaa Light'), local('Comfortaa-Light'), url('fonts/comfortaalight.woff2') format('woff2'), url('fonts/comfortaalight.woff') format('woff'), url('fonts/comfortaalight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Comfortaa';
+    src: local('Comfortaa'), url('fonts/comfortaa.woff2') format('woff2'), url('fonts/comfortaa.woff') format('woff'), url('fonts/comfortaa.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Comfortaa';
+    src: local('Comfortaa Bold'), local('Comfortaa-Bold'), url('fonts/comfortaabold.woff2') format('woff2'), url('fonts/comfortaabold.woff') format('woff'), url('fonts/comfortaabold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Furore';
+    src: local('Furore'), url('fonts/furore.woff2') format('woff2'), url('fonts/furore.woff') format('woff'), url('fonts/furore.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
